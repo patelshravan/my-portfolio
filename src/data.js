@@ -28,14 +28,14 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Hi, I'm Ganesh, and I'd like to welcome you to my world. Quill Bot employs me as a software engineer. Shravan was given a few projects. He did a fantastic job on those assignments, and he did it on time. He makes good use of his time and completes assignments on schedule.",
+      "Shravan was given a few projects. He did a fantastic job on those assignments, and he did it on time. He makes good use of his time and completes assignments on schedule.",
     image: "ganesh1.jpg",
     name: "Ganesh Patel",
     company: "Quill Bot",
   },
   {
     quote:
-      "Hello, my name is Kailash. I'm currently employed as a developer at DOODLE. Shravan is a talented web designer. He has completed numerous jobs, and I have also assigned him projects. He completed the projects in a timely and professional manner.",
+      "Shravan is a talented web designer. He has completed numerous jobs, and I have also assigned him projects. He completed the projects in a timely and professional manner.",
     image: "kp.jpg",
     name: "Kailash Patel",
     company: "Dooble.io",
